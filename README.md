@@ -10,3 +10,4 @@ Medium: https://medium.com/coding-at-dawn/how-to-convert-an-array-to-a-string-wi
 
 Sait WBDV Netlify: https://sait-wbdv-f22.netlify.app/courses/cpnt-262/assessments/achievements-2
 
+Avantutor: https://avantutor.com/blog/10-simple-javascript-for-loop-exercises/
